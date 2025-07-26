@@ -61,7 +61,7 @@ T = T_ambient + (T - T_ambient) * np.exp(-k * time)
 
 - Exponential decay due to convective cooling
 
-![Cooling Curve](Images/Brake_Disc_Cooling_graph.png)
+![Cooling Curve]([Images/Brake_Disc_Cooling_graph.png](https://github.com/goldedan7/CAD-Projects/blob/main/Images/Brake%20Disc%20cooling%20graph.png))
 
 
 ---
@@ -70,7 +70,7 @@ T = T_ambient + (T - T_ambient) * np.exp(-k * time)
 
 Braking occurs every 30 seconds. Each event increases the disc's temperature before cooling resumes.
 
-![Repeated Braking](Images/Brake_Disc_Temperature_Under_Repeated_Braking_Graph.png)
+![Repeated Braking]([Images/Brake_Disc_Temperature_Under_Repeated_Braking_Graph.png](https://github.com/goldedan7/CAD-Projects/blob/main/Images/Brake%20Disc%20Temperature%20Under%20Repeated%20Braking%20Graph.png))
 
 ---
 
